@@ -1,0 +1,8 @@
+INFO Server Started
+ERROR Database Failed
+WARNING CPU High
+INFO Backup Completed
+ERROR Disk Full
+INFO Deployment Started
+ERROR Kubernetes Pod Failed
+WARNING Memory Usage High
