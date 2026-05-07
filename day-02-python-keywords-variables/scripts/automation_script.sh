@@ -1,15 +1,13 @@
-# scripts/restart_servers.py
+#!/bin/bash
 
-servers = ["web1", "web2", "web3"]
+echo "Running Python Scripts"
+echo "======================"
 
-def restart_server(server_name):
+for file in *.py
+do
+    echo "Executing $file"
 
-    try:
-        print(f"Restarting {server_name}")
-        print("Restart successful")
+    python3 "$file"
 
-    except:
-        print("Restart failed")
-
-for server in servers:
-    restart_server(server)
+    echo "----------------------"
+done
