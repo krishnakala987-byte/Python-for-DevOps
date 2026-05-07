@@ -1,0 +1,10 @@
+# outputs/restart_servers_output.txt
+
+Restarting web1
+Restart successful
+
+Restarting web2
+Restart successful
+
+Restarting web3
+Restart successful
