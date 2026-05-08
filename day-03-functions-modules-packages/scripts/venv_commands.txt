@@ -1,0 +1,7 @@
+python -m venv myenv
+
+source myenv/bin/activate
+
+pip install boto3
+
+deactivate
