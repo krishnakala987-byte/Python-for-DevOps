@@ -1,0 +1,6 @@
+Addition: 15
+Subtraction: 15
+Multiplication: 20
+Division: 5.0
+Floor Division: 3
+Modulus: 1

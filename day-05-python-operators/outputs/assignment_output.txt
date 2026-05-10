@@ -1,0 +1,2 @@
+Updated Deployment Count: 6
+Remaining Instances: 8
