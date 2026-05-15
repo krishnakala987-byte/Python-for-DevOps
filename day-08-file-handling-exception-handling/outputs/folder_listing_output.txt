@@ -1,0 +1,9 @@
+Enter folder path:
+/var/log
+
+Files and folders found:
+
+syslog
+auth.log
+nginx
+kern.log

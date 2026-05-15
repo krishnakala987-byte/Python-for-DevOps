@@ -1,0 +1,4 @@
+Enter folder path:
+/wrong/path
+
+ERROR: Folder does not exist

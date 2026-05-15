@@ -1,0 +1,16 @@
+Enter folder paths separated by spaces:
+/var/log /etc
+
+Checking folder: /var/log
+
+Files and folders found:
+- syslog
+- auth.log
+- nginx
+
+Checking folder: /etc
+
+Files and folders found:
+- hosts
+- passwd
+- shadow
